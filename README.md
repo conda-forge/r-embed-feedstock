@@ -1,11 +1,11 @@
-About r-embed
-=============
+About r-embed-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-embed-feedstock/blob/main/LICENSE.txt)
 
 Home: https://embed.tidymodels.org, https://github.com/tidymodels/embed
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-embed-feedstock/blob/main/LICENSE.txt)
 
 Summary: Predictors can be converted to one or more numeric representations using a variety of methods. Effect encodings using simple generalized linear models <arXiv:1611.09477> or nonlinear models <arXiv:1604.06737> can be used.  There are also functions for dimension reduction and other approaches.
 
