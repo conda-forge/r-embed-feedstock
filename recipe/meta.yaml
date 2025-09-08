@@ -1,4 +1,4 @@
-{% set version = "1.1.5" %}
+{% set version = "1.2.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/embed_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/embed/embed_{{ version }}.tar.gz
-  sha256: 7f6b7db70ec67ea54469308decdf24b61cca6a95df544e73ed2515a110a0a04b
+  sha256: 2cfd8fc82520f578b79d0c767720f494210504111690d42aa8ce969a52506a84
 
 build:
   number: 0
